@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lotto-picker/static/css/main.e6c13ad2.css",
+    "main.js": "/lotto-picker/static/js/main.ce1d0bed.js",
+    "static/js/496.46057188.chunk.js": "/lotto-picker/static/js/496.46057188.chunk.js",
+    "index.html": "/lotto-picker/index.html",
+    "main.e6c13ad2.css.map": "/lotto-picker/static/css/main.e6c13ad2.css.map",
+    "main.ce1d0bed.js.map": "/lotto-picker/static/js/main.ce1d0bed.js.map",
+    "496.46057188.chunk.js.map": "/lotto-picker/static/js/496.46057188.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ce1d0bed.js"
+  ]
+}
