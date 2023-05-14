@@ -1,15 +1,27 @@
 {
   "files": {
-    "main.css": "/lotto-picker/static/css/main.e6c13ad2.css",
-    "main.js": "/lotto-picker/static/js/main.ce1d0bed.js",
-    "static/js/496.46057188.chunk.js": "/lotto-picker/static/js/496.46057188.chunk.js",
+    "main.css": "/lotto-picker/static/css/main.e1f2bb6b.css",
+    "main.js": "/lotto-picker/static/js/main.78852ba1.js",
+    "static/js/243.853bbd08.chunk.js": "/lotto-picker/static/js/243.853bbd08.chunk.js",
+    "static/js/180.47681481.chunk.js": "/lotto-picker/static/js/180.47681481.chunk.js",
+    "static/js/357.fca70839.chunk.js": "/lotto-picker/static/js/357.fca70839.chunk.js",
+    "static/js/525.29192954.chunk.js": "/lotto-picker/static/js/525.29192954.chunk.js",
+    "static/js/893.fb876e3f.chunk.js": "/lotto-picker/static/js/893.fb876e3f.chunk.js",
+    "static/js/165.e6941318.chunk.js": "/lotto-picker/static/js/165.e6941318.chunk.js",
+    "static/js/346.314c7b67.chunk.js": "/lotto-picker/static/js/346.314c7b67.chunk.js",
+    "static/js/819.b9d76dd9.chunk.js": "/lotto-picker/static/js/819.b9d76dd9.chunk.js",
+    "static/js/522.3e90a576.chunk.js": "/lotto-picker/static/js/522.3e90a576.chunk.js",
+    "static/js/260.08efe2c7.chunk.js": "/lotto-picker/static/js/260.08efe2c7.chunk.js",
+    "static/js/252.944a07e4.chunk.js": "/lotto-picker/static/js/252.944a07e4.chunk.js",
+    "static/js/120.6958e9b3.chunk.js": "/lotto-picker/static/js/120.6958e9b3.chunk.js",
+    "static/js/634.8f4391f4.chunk.js": "/lotto-picker/static/js/634.8f4391f4.chunk.js",
+    "static/media/google.svg": "/lotto-picker/static/media/google.b7da2ce748745374ee27eb11dd475b9c.svg",
+    "static/media/twitter.svg": "/lotto-picker/static/media/twitter.5b9c9738bc8e86846c91f27886cebacf.svg",
     "index.html": "/lotto-picker/index.html",
-    "main.e6c13ad2.css.map": "/lotto-picker/static/css/main.e6c13ad2.css.map",
-    "main.ce1d0bed.js.map": "/lotto-picker/static/js/main.ce1d0bed.js.map",
-    "496.46057188.chunk.js.map": "/lotto-picker/static/js/496.46057188.chunk.js.map"
+    "static/media/facebook.svg": "/lotto-picker/static/media/facebook.5b823a6232805871728da1033d817609.svg"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.ce1d0bed.js"
+    "static/css/main.e1f2bb6b.css",
+    "static/js/main.78852ba1.js"
   ]
 }
